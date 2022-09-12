@@ -1,2 +1,2 @@
-# proyecto-b-sico-JS-desde-cero
+# proyecto-basico-JS-desde-cero
 Proyecto básico JS
